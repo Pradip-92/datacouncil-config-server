@@ -1,0 +1,6 @@
+config:
+  server:
+    source: GitHub
+    path: https://github.com/username/config_repo.git
+    username: Pradip-92
+    default-branch: main
