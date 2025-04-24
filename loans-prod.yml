@@ -1,0 +1,11 @@
+loans:
+  message: Hello welcome to the loans service PROD  ENV
+  ownerDetails:
+    name: Pravin Shinde
+    age: 34
+  contactDetails:
+    email: pravin.shinde@gmail.com
+    address: Bavdhan Pune -411021
+    mobileNos:
+      - 9098909888
+      - 9988770099

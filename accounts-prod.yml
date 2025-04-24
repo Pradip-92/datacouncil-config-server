@@ -1,0 +1,11 @@
+accounts:
+  message: Hello welcome to the accounts service - PROD ENV
+  owner-details:
+    name: Pravin Shinde
+    age: 34
+  contact-details:
+    email: pravin.shinde@gmail.com
+    address: Kothrud Pune -411021
+  mobile-nos:
+    - 9098909888
+    - 9988770099

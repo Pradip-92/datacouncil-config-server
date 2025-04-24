@@ -1,0 +1,11 @@
+accounts:
+  message: Hello welcome to the accounts service - QA ENV
+  owner-details:
+    name: Prashant Shinde
+    age: 36
+  contact-details:
+    email: prashant.shinde@gmail.com
+    address: Warje Pune -411021
+  mobile-nos:
+    - 9098909899
+    - 9988770099

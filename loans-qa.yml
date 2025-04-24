@@ -1,0 +1,11 @@
+loans:
+  message: Hello welcome to the loans service
+  ownerDetails:
+    name: Prashant Shinde
+    age: 36
+  contactDetails:
+    email: prashant.shinde@gmail.com
+    address: Bavdhan Pune -411021
+    mobileNos:
+      - 9098909888
+      - 9988770099

@@ -1,0 +1,11 @@
+accounts:
+  message: Hello welcome to the accounts service
+  ownerDetails:
+    name: Pradip Shinde
+    age: 32
+  contactDetails:
+    email: pradip.shinde@gmail.com
+    address: Bavdhan Pune -411021
+  mobileNos:
+    - 9098909888
+    - 9988770099
